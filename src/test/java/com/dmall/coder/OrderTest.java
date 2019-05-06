@@ -27,7 +27,7 @@ public class OrderTest {
         System.out.println(orderService.handle(new OrderDTO(1)));
         System.out.println(orderService.handle(new OrderDTO(2)));
         System.out.println(orderService.handle(new OrderDTO(3)));
-        System.out.println(orderService.handle(new OrderDTO(4)));
+//        System.out.println(orderService.handle(new OrderDTO(4)));
     }
 
 }
